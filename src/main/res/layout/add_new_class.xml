@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/addClassPage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/classname"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Classname:"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/classNameInput"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:labelFor="@+id/classname" />
+
+    <TextView
+        android:id="@+id/numberOfRows"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Number of Rows"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/numberOfRowsInput"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/numberOfStudent"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Number of Students"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/numberOfStudentsInput"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/addNewClass"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Create Class" />
+
+</LinearLayout>

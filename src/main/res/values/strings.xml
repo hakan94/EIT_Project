@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BCS_App</string>
+    <string name="classes">Classes</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="events">Events</string>
+    <string name="present">Present</string>
+    <string name="excused">Excused</string>
+    <string name="absent">Absent</string>
+    <string name="send_mail">Send Mail</string>
+    <string name="_99_5_present">Present</string>
+    <string name="_0_3_excused">Excused</string>
+    <string name="_0_2_absent">Absent</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_text3">3</string>
+    <string name="_text1">1</string>
+    <string name="_text2">2</string>
+    <string name="_text4">4</string>
+    <string name="_text5">5</string>
+    <string name="_text6">6</string>
+    <string name="_text7">7</string>
+    <string name="_text8">8</string>
+    <string name="_text9">9</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="lastName">Öztürk</string>
+    <string name="firstName">Hakan</string>
+
+</resources>
